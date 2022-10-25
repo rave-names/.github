@@ -2,9 +2,11 @@
 ### The first web3 username system on Fantom
 
 #### dApps and links
-Main Site: [rave.domains](https://rave.domains)
+Landing Site: [rave.domains](https://rave.domains)
+<br>dApp Site: [rave.domains](https://app.rave.domains)
 <br>Alpha Site: [alpha.rave.domains](https://alpha.rave.domains)
-<br>IPNS Mirror: [ipfs.rave.domains](https://ipfs.rave.domains)
+<br>Old site: [rave.fantoms.art](https://rave.fantoms.art)
+<br>Legacy Rave V1 site: [fns-old.fantoms.art](https://fns-old.fantoms.art)
 
 #### Repositories
 [contracts](https://github.com/rave-names/contracts): All the Rave Names contracts (most lisenced under the Unlisence).
